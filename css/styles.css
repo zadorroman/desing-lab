@@ -35,6 +35,9 @@ body, html {
 
 
 /* Main Styles */
+html {
+	scroll-behavior: smooth;
+}
 
 body {
 	font: 300 16px var(--font);
